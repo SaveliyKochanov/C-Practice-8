@@ -1,0 +1,30 @@
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.exe
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.deps.json
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.runtimeconfig.json
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.pdb
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.csproj.AssemblyReference.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.AssemblyInfoInputs.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.AssemblyInfo.cs
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.csproj.CoreCompileInputs.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\refint\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.pdb
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.genruntimeconfig.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8\Code\Practice8\Practice8\obj\Debug\net6.0\ref\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.exe
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.deps.json
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.runtimeconfig.json
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\bin\Debug\net6.0\Practice8.pdb
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.csproj.AssemblyReference.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.AssemblyInfoInputs.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.AssemblyInfo.cs
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.csproj.CoreCompileInputs.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\refint\Practice8.dll
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.pdb
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\Practice8.genruntimeconfig.cache
+F:\Work\Studying\П.Р - Основы алгоритмизации и программирования\П.З - 8. Составление программ разветвляющейся усложненной структуры\Code\Practice8\Practice8\obj\Debug\net6.0\ref\Practice8.dll
